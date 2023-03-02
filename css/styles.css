@@ -31,12 +31,12 @@ color:#62B6B7;
 
 .cloud-first{
     position:absolute;
-    right:350px; top:30px;
+    right:300px; top:40px;
     }
 .cloud-second{
     position:absolute;
-    left:350px;
-    bottom:250px;
+    left:250px;
+    bottom:300px;
     }
 
 .html-img{
