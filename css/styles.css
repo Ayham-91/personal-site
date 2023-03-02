@@ -31,12 +31,12 @@ color:#62B6B7;
 
 .cloud-first{
     position:absolute;
-    right:350px; top:50px;
+    right:350px; top:30px;
     }
 .cloud-second{
     position:absolute;
     left:350px;
-    bottom:300px;
+    bottom:250px;
     }
 
 .html-img{
@@ -74,7 +74,7 @@ margin=100px 0;
 .bottom-container{
 background-color:#CBEDD5;
 height:10px;
-padding: 10px 0px 20px ;
+padding: 5px 0px 20px ;
 margin:20px auto 0px;
 font-size: 0.75rem;
 
